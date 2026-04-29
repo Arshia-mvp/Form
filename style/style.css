@@ -1,0 +1,439 @@
+.fieldset{
+    width: 500px;
+    height: 477px;
+    background-color: aqua;
+    border-radius: 15px;
+    border: 3px solid aqua;
+    position: absolute;
+    left: 420px;
+    top: 1px;
+}
+
+.legend{
+    color: darkblue;
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.h1{
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+
+.input{
+    width: 165px;
+    height: 30px;
+    border: 3px solid darkblue;
+    background-color: darkblue;
+    color: greenyellow;
+    font-size: 18px;
+    border-radius: 4px;
+    position: absolute;
+    top: 90px;
+    left: 75px;
+}
+
+.input:focus{
+    font-size: 18px;
+    color: greenyellow;
+}
+
+.input::placeholder{
+    font-size: 17px;
+    color: greenyellow;
+    font-weight: 700;
+}
+
+.p{
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 60px;
+}
+
+.p1{
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 60px;
+    left: 280px;
+}
+
+.input1{
+    width: 165px;
+    height: 30px;
+    background-color: darkblue;
+    border: 3px solid darkblue;
+    color: greenyellow;
+    font-size: 18px;
+    border-radius: 4px;
+    position: absolute;
+    top: 90px;
+    left: 340px;
+}
+
+.input1:focus{
+    font-size: 18px;
+    color: greenyellow;
+}
+
+.input1::placeholder{
+    font-size: 17px;
+    color: greenyellow;
+    font-weight: 700;
+}
+
+.h2{
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+    margin-top: 75px;
+}
+
+.p2{
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 165px;
+    left: 50px;
+}
+
+.input2{
+    position: absolute;
+    top: 206px;
+    left: 106px;
+}
+
+.p3{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.input3{
+    position: absolute;
+    top: 206px;
+    left: 300px;
+}
+
+.p4{
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    left: 381.5px;
+    top: 165px;
+}
+
+.input4{
+    position: absolute;
+    top: 206px;
+    left: 457.5px;
+}
+
+.p5{
+    font-size: 27px;
+    color: blue;
+    position: absolute;
+    left: 20px;
+    top: 220px;
+    font-weight: 700;
+}
+
+.p6{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 220px;
+    top: 230px;
+    font-weight: bolder;
+}
+
+.input5{
+    position: absolute;
+    top: 253px;
+    left: 280px;
+}
+
+.p7{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 305px;
+    top: 230px;
+    font-weight: bolder;
+}
+
+.input6{
+    position: absolute;
+    top: 253px;
+    left: 368px;
+}
+
+.p8{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 394px;
+    top: 230px;
+    font-weight: bolder;
+}
+
+.input7{
+    position: absolute;
+    top: 253px;
+    left: 425px;
+}
+
+.p9{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 450px;
+    top: 230px;
+    font-weight: bolder;
+}
+
+.input8{
+    position: absolute;
+    top: 253px;
+    left: 500px;
+}
+
+.p10{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 20px;
+    top: 255px;
+    font-weight: bolder;
+}
+
+.input9{
+    position: absolute;
+    top: 279px;
+    left: 67px;
+}
+
+.p11{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 95px;
+    top: 255px;
+    font-weight: bolder;
+}
+
+.input10{
+    position: absolute;
+    top: 279px;
+    left: 145px;
+}
+
+.p12{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 173px;
+    top: 255px;
+    font-weight: bolder;
+}
+
+.input11{
+    position: absolute;
+    top: 279px;
+    left: 202px;
+}
+
+.p13{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 232px;
+    top: 255px;
+    font-weight: bolder;
+}
+
+.input12{
+    position: absolute;
+    top: 279px;
+    left: 273px;
+}
+
+.p14{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 302.5px;
+    top: 255px;
+    font-weight: bolder;
+}
+
+.input13{
+    position: absolute;
+    top: 279px;
+    left: 369px;
+}
+
+.p15{
+    font-size: 21px;
+    color: blue;
+    position: absolute;
+    left: 398px;
+    top: 255px;
+    font-weight: bolder;
+}
+
+.input14{
+    position: absolute;
+    top: 279px;
+    left: 481px;
+}
+
+.p16{
+    font-size: 30px;
+    color: blue;
+    position: absolute;
+    top: 288px;
+    left: 50px;
+}
+
+.input15{
+    width: 165px;
+    height: 30px;
+    background-color: darkblue;
+    border: 3px solid darkblue;
+    color: greenyellow;
+    font-size: 18px;
+    border-radius: 4px;
+    position: absolute;
+    position: absolute;
+    top: 319px;
+    left: 135px;
+}
+
+.input15:focus{
+    font-size: 18px;
+    color: greenyellow;
+}
+
+.input15::placeholder{
+    font-size: 17px;
+    color: greenyellow;
+    font-weight: 700;
+}
+
+.input-submit{
+    width: 70px;
+    height: 30px;
+    background-color: blue;
+    border: 3px solid blue;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 323px;
+    left: 328px;
+}
+
+.input-reset{
+    width: 70px;
+    height: 30px;
+    background-color: blue;
+    border: 3px solid blue;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 323px;
+    left: 409px;
+}
+
+.select{
+    position: absolute;
+    top: 368px;
+    left: 130px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    width: 110px;
+    border: 2px solid blue;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option1{
+    background-color: blue;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option2{
+    background-color: darkgoldenrod;
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option3{
+    background-color: brown;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option4{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option5{
+    background-color: green;
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.select1{
+    position: absolute;
+    top: 368px;
+    left: 270px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    width: 113px;
+    border: 2px solid blue;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option6{
+    background-color: blue;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option7{
+    background-color: darkgoldenrod;
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option8{
+    background-color: brown;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option9{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.option10{
+    background-color: green;
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
